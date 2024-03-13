@@ -2,9 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-Labels: 'bug'
+labels: bug
 assignees: ''
-projects: ["pjfitzgibbons/1"]
 
 ---
 
